@@ -7,7 +7,8 @@ You are the operator of a spaceship traveling through space,and in each level, y
 
 # VIDEO
 
-<img src="./Screen/output (online-video-cutter.com).mp4" width="24%"/>
+https://github.com/MuhammetMelihKIR/SpaceBullet/assets/120091310/722b75fb-8bd6-4f6d-93f7-94d8099ce968
+
 
 
 ## Game Screen
