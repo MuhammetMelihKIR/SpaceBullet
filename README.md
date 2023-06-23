@@ -7,7 +7,7 @@ You are the operator of a spaceship traveling through space,and in each level, y
 
 # VIDEO
 
-<img src="./TapToShot/ReadmeAssets/start.png.png" alt="racegif" width="24%"/>
+<img src="./Screen/output (online-video-cutter.com).mp4" width="24%"/>
 
 
 ## Game Screen
