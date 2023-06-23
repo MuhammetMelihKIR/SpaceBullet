@@ -7,7 +7,7 @@ You are the operator of a spaceship traveling through space,and in each level, y
 
 # VIDEO
 
-https://github.com/MuhammetMelihKIR/SpaceBullet/assets/120091310/722b75fb-8bd6-4f6d-93f7-94d8099ce968
+https://github.com/MuhammetMelihKIR/SpaceBullet/assets/120091310/cb95985f-91f7-48ac-afc3-be55034261b9
 
 
 
