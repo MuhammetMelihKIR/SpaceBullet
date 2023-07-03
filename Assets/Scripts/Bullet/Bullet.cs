@@ -29,7 +29,8 @@ public class Bullet : MonoBehaviour
 
     public void BackToThePool()
     {
-
+        debug.log("deneme");
+    
         ObjectPool.instance.pooledObjects.Enqueue(gameObject);
         gameObject.SetActive(false);
     }
@@ -45,5 +46,5 @@ public class Bullet : MonoBehaviour
         
 
        
-    }
+   }
 }
