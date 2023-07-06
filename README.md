@@ -9,6 +9,8 @@ https://melih-kir.itch.io/space-bullet
 
 # VIDEO
 
+https://www.youtube.com/watch?v=GQzgx8vsyAw
+
 https://github.com/MuhammetMelihKIR/SpaceBullet/assets/120091310/cb95985f-91f7-48ac-afc3-be55034261b9
 
 
